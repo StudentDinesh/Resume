@@ -1,0 +1,165 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    height: 56rem;
+    width: 45rem;
+    border: 1px solid black;
+    margin-left: 22%;
+}
+img{
+    height: 190px;
+    width: 200px;
+    border-radius: 50%;
+    background-size: cover;
+    position: absolute;
+    margin-left: 3%;
+    top: 2%;
+    border: 5px solid black;
+}
+a{
+    position: absolute;
+    top:  37%;
+    margin-left: 28px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+p{
+    position: absolute;
+    top: 43%;
+    margin-left: 50px;
+    font-weight: lighter;
+}
+a1{
+    position: absolute;
+    top: 63%;
+    margin-left: 35px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.u1
+{
+    position:absolute;
+    top: 70%;
+    margin-left: 65px;
+    font-weight: lighter;
+}
+.box1
+{
+    height: 56rem;
+    width: 26rem;
+    background-color: lightslategrey;
+    margin-left: 42.2% ;
+}
+h1{
+    margin-left: 45px;
+    position: absolute;
+    top: 20px;
+}
+h2{
+    position: absolute;
+    font-size: medium;
+    top:65px;
+    margin-left: 80px;
+}
+.top1
+{
+    height: 24px;
+    width: 375px;
+    border: 1px solid transparent;
+    background-color: snow;
+    color: black;
+    position: absolute;
+    top: 52%;
+    margin-left: 1%;
+    padding-top: 5px;
+    padding-left: 3px;
+    font-size: 16px;
+    font-weight: bold;
+}
+a2{
+    position: absolute;
+    top: 59%;
+    margin-left: 33px;
+    font-size: 17px;
+}
+p1{
+    position: absolute;
+    top: 63%;
+    margin-left: 38px;
+    font-size: 16px;
+}
+a3{
+    position: absolute;
+    top: 75%;
+    margin-left: 33px;
+    font-size: 17px;
+}
+p2{
+    position: absolute;
+    top: 79%;
+    margin-left: 40px;
+    font-size: 16px;
+}
+a4{
+    position: absolute;
+    top: 93%;
+    margin-left: 35px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.u2{
+    position:absolute;
+    top: 100%;
+    margin-left: 53px;
+    font-weight: lighter;
+}
+.top2{
+    height: 24px;
+    width: 375px;
+    border: 1px solid transparent;
+    background-color: snow;
+    color: black;
+    position: absolute;
+    top: 18%;
+    margin-left: 1%;
+    padding-top: 5px;
+    padding-left: 3px;
+    font-size: 16px;
+    font-weight: bold;
+}
+p3{
+    height: 100px;
+    width: 340px;
+    position: absolute;
+    top: 25%;
+    margin-left: 38px;
+    font-size: 15px;
+    text-align: justify;
+}
+a5{
+    height: 24px;
+    width: 375px;
+    border: 1px solid transparent;
+    background-color: snow;
+    color: black;
+    position: absolute;
+    bottom: 5%;
+    margin-left: 1%;
+    padding-top: 5px;
+    padding-left: 3px;
+    font-size: 16px;
+    font-weight: bold;
+}
+.u3{
+    position:absolute;
+    margin-left: 42px;
+    font-weight: lighter;
+    top: 96%;
+}
